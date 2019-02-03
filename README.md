@@ -3,8 +3,8 @@
 Modificações ao abnTeX para produção de trabalhos científicos monográficos (TCC, dissertações e teses) feita com algumas orientaçõese adaptações exigidas pelo  Departamento de Ciência Política da Universidade Federal de Pernambuco (DCP-UFPE) que estão disponíveis através deste [link](https://www.ufpe.br/documents/39646/656804/Regras-Normatiza%C3%A7%C3%B5es-Trabalhos-Acad%C3%AAmicos.pdf/f8682512-11a4-4951-a7d2-d6f741277a9a).
 
 
-<h2> <strong>Sugestões</strong>  </h2>
-Caso você não saiba escrever em LaTex, sugiro que pesquise os manuais e modelos desse [link](https://www.abntex.net.br/).
+<h2>Sugestões</h2>
+Caso você não saiba escrever em LaTex, sugiro que pesquise os manuais e modelos desse no [link](https://www.abntex.net.br).
 
 
 <h2>Estrutura do projeto:</h2>
