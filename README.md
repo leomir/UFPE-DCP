@@ -21,13 +21,8 @@ Caso você não saiba escrever em LaTex, sugiro que pesquise os manuais e modelo
 Observações: o arquivo principal passui alguns avisos que foram ignorados e muitos códigos que pode ser dispensáveis, enquanto outros definem algumas configurações importantes. A maioria das linhas de códigos possuem anotações para orientá-los na utilização do modelo proposto. 
 
 
+<h2><em>Feedback</em></h2>
+Encontrei um problema/erro ou gostaria que algo fosse incluído no projeto que não está em conformidade com os padrões do manual da UFPE ou precise que algo novo seja incluído (ou algo que existe removido), basta abrir uma <em> issue</em> em: https://github.com/leomir/UFPE-DCP/issues).
 
-
-
-
-
-
-<h2> <em>Feedback</em>  </h2>
-Encontrei um problema/erro ou gostaria que algo fosse incluído no projeto que não está em conformidade com os padrões do manual da UFPE ou precise que algo novo seja incluído (ou algo que existe removido), basta abrir uma [Issue](https://github.com/leomir/UFPE-DCP/issues) aqui mesmo no Github.
 Lembre-se, o que está sendo proposto é um modelo. Sua colaboração é crucial para aperfeicoá-lo a fim de torná-lo útil na criação de vários trabalhos científicos.
 Obrigado.
