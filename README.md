@@ -22,7 +22,8 @@ Observações: o arquivo principal passui alguns avisos que foram ignorados e mu
 
 
 <h2><em>Feedback</em></h2>
-Encontrei um problema/erro ou gostaria que algo fosse incluído no projeto que não está em conformidade com os padrões do manual da UFPE ou precise que algo novo seja incluído (ou algo que existe removido), basta abrir uma <em> issue</em> em: https://github.com/leomir/UFPE-DCP/issues).
+Encontrei um problema/erro ou gostaria que algo fosse incluído no projeto que não está em conformidade com os padrões do manual da UFPE ou precise que algo novo seja incluído (ou algo que deva ser removido), basta abrir uma <em> issue</em> em: https://github.com/leomir/UFPE-DCP/issues.
 
 Lembre-se, o que está sendo proposto é um modelo. Sua colaboração é crucial para aperfeicoá-lo a fim de torná-lo útil na criação de vários trabalhos científicos.
+
 Obrigado.
