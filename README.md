@@ -19,7 +19,7 @@ Caso você não saiba escrever em LaTex, sugiro que pesquise os manuais e modelo
  <li>bibliografia.bib: arquivo que contém as referências bibliográficas utilizadas no modelo.</li>
  <li>Modelo_V1.tex: arquivo principal do modelo, aqui se encontram algumas orientações e customizações feitas. </li>
 </ul>
-Observações: o arquivo principal passui alguns avisos que foram ignorados e muitos códigos que pode ser dispensáveis, enquanto outros definem algumas configurações importantes. A maioria das linhas de códigos possuem anotações para orientá-los na utilização do modelo proposto. 
+Observações: o arquivo principal possui alguns problemas que foram ignorados e muitos códigos que pode ser dispensáveis, enquanto outros definem algumas configurações importantes. A maioria das linhas de códigos possuem anotações para orientá-los na utilização do modelo proposto. 
 
 
 <h2><em>Feedback</em></h2>
