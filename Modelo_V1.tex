@@ -294,6 +294,7 @@
 % \normalfont  Programa de pós-graduação em Ciências\\
 %end{minipage}
 %\vspace{1cm}
+% ========= FIM DA CAPA NORMAL SEM O FUNDO PRETO ====  %
 % Seleciona o idioma do documento (conforme pacotes do babel)
 %\selectlanguage{english} %caso queira escrever em inglês
 \selectlanguage{brazil}
@@ -572,6 +573,7 @@ Agradeço a todos também.
 \chapter*[Introdução]{Introdução}
 \addcontentsline{toc}{chapter}{Introdução}
 \thispagestyle{capitulo}
+\OnehalfSpacing % espaçamento 1,5 cm.  %SingleSpacing é 1cm. E pode ser controlado com o comando \begin{Spacing}{hfactori} ... \end{Spacing}
 \lipsum[31]
 
 \lipsum[31]
@@ -581,8 +583,6 @@ Agradeço a todos também.
 \lipsum[31]
 
 \lipsum[31]
-
-\newpage
 \lipsum[31]
 \pagestyle{introducao} % Estilo de página criado especial para a introdução
 \lipsum[31]
@@ -670,7 +670,8 @@ Agradeço a todos também.
 % Comando para caso queira dividir o trabalho em partes
 
 \chapter{Primeiro Capítulo}
-
+\thispagestyle{capitulo}
+\OnehalfSpacing % espaçamento 1,5 cm.  %SingleSpacing é 1cm. E pode ser controlado com o comando \begin{Spacing}{hfactori} ... \end{Spacing}
 % COMANDO DA EPÍGRAFE ABAIXO - ELEMENTO OPCIONAL
 %\epigraph{\textit{\footnotesize	 ``Afirmo muitas vezes que, se você medir aquilo de que está falando e expressar em números, você conhece alguma coisa sobre o assunto; mas, quando você não o pode exprimir em números, seu conhecimento é pobre e insatisfatório.''}}{\scriptsize William Thompson (Lord Kelvin)}
 %\thispagestyle{capitulo}
@@ -678,7 +679,6 @@ Agradeço a todos também.
 
 
 
-\OnehalfSpacing % espaçamento 1,5 cm.  %SingleSpacing é 1cm. E pode ser controlado com o comando \begin{Spacing}{hfactori} ... \end{Spacing}
 Miguel é um exemplo de pessoa bondosa e blá blá blá exemple \lipsum[2]
 \lipsum[31]
 
@@ -741,7 +741,7 @@ Miguel é um exemplo de pessoa bondosa e blá blá blá exemple \lipsum[2]
 % ----------------------------------------------------------
 % Referências bibliográficas
 % ----------------------------------------------------------
- \bibliography{bibliografia} % this is mybib 
+ \bibliography{bibliografia} % Este é o meu arquivo das referências utilizadas 
 \pagestyle{referencias}
 %\renewcommand{\thebibliography}{\addcontentsline{toc}{chapter}{\bibname}}{\thepage}
  % \renewcommand{\thepage}{\arabic{page}}\setcounter{page}{\thepage}
